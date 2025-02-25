@@ -9,4 +9,5 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://criarmeulink.com.br/u/1712771830)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nylecoelho/)
 
-![Snake animation](https://github.com/NyleCoelho/NyleCoelho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+
