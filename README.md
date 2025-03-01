@@ -1,6 +1,6 @@
 ![banner)](assets/banner)<br>
 
-![NyleCoelho's Stats](https://github-readme-stats.vercel.app/api?username=NyleCoelho&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![NyleCoelho's Stats](https://github-readme-stats.vercel.app/api?username=NyleCoelho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 <p>:pushpin: Welcome to my GitHub!<br>:books: Software Engineering Student <br>:earth_americas: Currently living in Rondônia, Brazil. <br>:woman: My pronouns are she/her
 
