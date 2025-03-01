@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner (1)](assets/Foto-de-fundo-minimalista-para-banner-de-LinkedIn.png)<br>
+![banner)](assets/banner)<br>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Nylecoelho&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">  
 
