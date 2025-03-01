@@ -1,20 +1,8 @@
-<h1 align="center">Olá! eu sou Nyle Coelho</h1>
-
-<p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
-</p><br>
-
 ![banner)](assets/banner.png)<br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <p>:pushpin: Welcome to my GitHub!<br>:books: Software Engineering Student <br>:earth_americas: Currently living in Rondônia, Brazil. <br>:woman: My pronouns are she/her
-  </div>
-  <div>
-    
-   ![NyleCoelho's Stats](https://github-readme-stats.vercel.app/api?username=NyleCoelho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-  </div>
-</div>
+<p align="left">:pushpin: Welcome to my GitHub!<br>:books: Software Engineering Student <br>:earth_americas: Currently living in Rondônia, Brazil. <br>:woman: My pronouns are she/her</p>
+
+![NyleCoelho's Stats](https://github-readme-stats.vercel.app/api?username=NyleCoelho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ![NyleCoelho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NyleCoelho&theme=midnight-purple&hide_border=true)
 
