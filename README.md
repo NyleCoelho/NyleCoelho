@@ -13,8 +13,12 @@
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
       Living in Rondonia, Brazil :city_sunset: <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Learning new things :space_invader:
+      Learning new things :space_invader: <br>
 </h3>
+
+
+<img src="assets/octocat" width="500" align="right">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=800&lines=Contact+me!+" align="left">
 
 <img src="https://github.com/NyleCoelho/NyleCoelho/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
 
