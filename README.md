@@ -5,15 +5,13 @@
 
 <p align="justify">
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
-      I’m a 19-year-old <br>
+      I’m a 19-year-old girl <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
-      software engineering student, <br>
+      software engineering student <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
-      currently interning at Sankhya, a cool ERP company in Brazil. <br>
+      currently interning at Sankhya
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
       I'm all about diving into tech, learning new things, and building awesome stuff. <br>
-  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
-      When I'm not coding, you can find me exploring new ideas or working on personal projects.
 </p>
 
 
