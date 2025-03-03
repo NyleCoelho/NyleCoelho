@@ -5,15 +5,15 @@
 
 <h3 align="left">
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Pronouns: she | her <br> 
+      Pronouns: she | her :nail_care: <br> 
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Software engineering student <br>
+      Software engineering student :mortar_board: <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Currently interning at Sankhya <br>
+      Currently interning at Sankhya :notebook: <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Living in Rondonia, Brazil <br>
+      Living in Rondonia, Brazil :city_sunset: <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Learning new things
+      Learning new things :space_invader:
 </h3>
 
 <img src="https://github.com/NyleCoelho/NyleCoelho/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
