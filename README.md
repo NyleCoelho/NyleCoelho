@@ -1,10 +1,21 @@
 ![banner)](assets/banner.png)<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=NyleCoelho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align="right">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+">
 
-<p align="justify"> Hey there, I'm Nyle Coelho! 🌟 I’m a 19-year-old software engineering student, currently interning at Sankhya, a cool ERP company in Brazil. I'm all about diving into tech, learning new things, and building awesome stuff. When I'm not coding, you can find me exploring new ideas or working on personal projects.</p>
+<p align="justify">
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
+      I’m a 19-year-old <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
+      software engineering student, <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
+      currently interning at Sankhya, a cool ERP company in Brazil. <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
+      I'm all about diving into tech, learning new things, and building awesome stuff. <br>
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="20">
+      When I'm not coding, you can find me exploring new ideas or working on personal projects.
+</p>
+
 
 
 
