@@ -23,40 +23,40 @@
 <img src="assets/octocat" width="400" align="right">
 
 <div align="center">
-  <table width="90%"> <!-- A tabela agora ocupa toda a largura disponível -->
+  <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://linkedin.com/in/nylecoelho">
-          <img src="assets/linkedin.png" width="100"><br> <!-- Ícones maiores -->
+          <img src="assets/linkedin.png" width="50"><br>
           <strong>LinkedIn</strong>
         </a>
         <p>💼 Profissional e networking</p>
       </td>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://youtube.com/@nylesuik">
-          <img src="assets/youtube.png" width="100"><br>
+          <img src="assets/youtube.png" width="50"><br>
           <strong>YouTube</strong>
         </a>
         <p>📹 Conteúdo sobre tecnologia</p>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://instagram.com/nylesuiko">
-          <img src="assets/instagram.png" width="100"><br>
+          <img src="assets/instagram.png" width="50"><br>
           <strong>Instagram</strong>
         </a>
         <p>📸 Projetos e dia a dia</p>
       </td>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://tiktok.com/@nylesuiko">
-          <img src="assets/tiktok.png" width="100"><br>
-          <strong>TikTok</strong>
+          <img src="assets/tiktok.png" width="50"><br>
+          <strong>Instagram</strong>
         </a>
         <p>🎭 Conteúdo rápido sobre tech</p>
       </td>
     </tr>
-  </table>
+  </table> 
 </div>
 
 
