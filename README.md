@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nylecoelho&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
 
 <h1 align="center" > Me acompanhe nas redes sociais </h1> <br>
-<img src="assets/octocat" width="470" align="right">
+<img src="assets/octocat" width="450" align="right">
 
 <div align="center">
   <table width="90%"> <!-- A tabela agora ocupa toda a largura disponível -->
@@ -58,10 +58,6 @@
     </tr>
   </table>
 </div>
-
-
-
-
 
 
 <Strong>Para contato profissional: </Strong> <a href="mailto:biancacoelhoo05@gmail.com"> biancacoelhoo05@gmail.com </a>
