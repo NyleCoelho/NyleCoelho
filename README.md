@@ -16,8 +16,8 @@
       Learning new things :space_invader: <br> <br>
 </h3>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=nylecoelho&theme=midnight-purple&hide_border=true" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nylecoelho&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%">
+<img src="https://nirzak-streak-stats.vercel.app/?user=nylecoelho&theme=midnight-purple&hide_border=true" width="40%" height="40%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nylecoelho&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center">
 
 <img src="assets/octocat" width="400" align="right">
 <h2>CONTACT ME!</h2>
