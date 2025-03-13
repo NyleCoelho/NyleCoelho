@@ -16,19 +16,16 @@
       Learning new things :space_invader: <br> <br>
 </h3>
 
+<img src="https://nirzak-streak-stats.vercel.app/?user=nylecoelho&theme=midnight-purple&hide_border=true" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nylecoelho&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%">
+
 <img src="assets/octocat" width="400" align="right">
 <h2>CONTACT ME!</h2>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=nylecoelho&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nylecoelho&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 <h3 align="left">Connect with me:</h3>
-
 
 <img src="https://github.com/NyleCoelho/NyleCoelho/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
 
