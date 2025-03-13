@@ -1,4 +1,4 @@
-![banner)](assets/banner.png)<br>
+![image](https://github.com/user-attachments/assets/2353028a-3f98-45f9-a130-a53b6a26c7d3)![banner)](assets/banner.png)<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=NyleCoelho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" align="right">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
@@ -22,10 +22,21 @@
 <img src="assets/octocat" width="400" align="right">
 <h2>CONTACT ME!</h2>
 
+<img src="assets/linkedin.png">
+  https://linkedin.com/in/nylecoelho
+  
+<img src="assets/youtube.png">
+  https://youtube.com/@nylesuik
+  
+<img src="assets/instagram.png">
+  https://instagram.com/nylesuiko
+  
+<img src="assets/tiktok.png">
+  https://tiktok.com/@nylesuiko
 
 
+mailto:biancacoelhoo05@gmail.com
 
-<h3 align="left">Connect with me:</h3>
 
 <img src="https://github.com/NyleCoelho/NyleCoelho/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
 
