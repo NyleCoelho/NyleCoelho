@@ -9,7 +9,4 @@ Besides coding, I also make videos for YouTube about my lifestyle, daily routine
 If you want to reach out or see more of what I do, here is where you can find me ヽ(・∀・)ﾉ
 
 * ✦ [LinkedIn](https://www.linkedin.com/in/barbara-coelho-8b87b62b2/)
-* ✦ [YouTube](https://www.youtube.com/@NyleCoelho/videos)
-* ✦ [Instagram](https://www.instagram.com/nylecoelho/)
-* ✦ [Instagram (Pixel Art)](https://www.instagram.com/nylesuik/)
 * ✦ [Email me](mailto:biancacoelhoo05@gmail.com)
