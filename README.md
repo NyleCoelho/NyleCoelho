@@ -1,23 +1,15 @@
-```text
-               _        _____           _ _           
-              | |      / ____|         | | |          
-  _ __  _   _| | ___  | |     ___   ___| | |__   ___  
- | '_ \| | | | |/ _ \ | |    / _ \ / _ \ | '_ \ / _ \ 
- | | | | |_| | |  __/ | |___| (_) |  __/ | | | | (_) |
- |_| |_|\__, |_|\___|  \_____\___/ \___|_|_| |_|\___/ 
-         __/ |                                        
-        |___/                                         
+# Hiiii, I'm Nyle! :3
 
-______________________________________________________________________
+I'm a third-year Software Engineering student from Brazil, but honestly, I feel like I'm just starting my real journey. I have some solid experience with Python, and right now I'm spending my time studying C++ and Java. 
 
- [USER]: /home/nylecoelho $ cat about.txt
+To be completely honest, I'm currently trying to recover a few lost years. I got stuck in a really bad learning loop relying on AI, but now I'm finally getting to appreciate the incredible feeling of actually creating things from scratch by myself. Because of that shift, I really value projects that show genuine personality and are driven mostly by human effort. 
 
- To be honest, I don't know much yet and I'm not here to 
- impress anyone. I just like coding because it's a way 
- to express what's on my mind. 
+Besides coding, I also make videos for YouTube about my lifestyle, daily routine, studies, and programming. I really enjoy the visual and creative side of things, but I also absolutely love getting deep into the logic behind it all.
 
- [USER]: /home/nylecoelho $ exit
+If you want to reach out or see more of what I do, here is where you can find me ヽ(・∀・)ﾉ
 
- > Email:    biancacoelhoo05@gmail.com
-
-______________________________________________________________________
+* ✦ [LinkedIn](https://www.linkedin.com/in/barbara-coelho-8b87b62b2/)
+* ✦ [YouTube](https://www.youtube.com/@NyleCoelho/videos)
+* ✦ [Instagram](https://www.instagram.com/nylecoelho/)
+* ✦ [Instagram (Pixel Art)](https://www.instagram.com/nylesuik/)
+* ✦ [Email me](mailto:biancacoelhoo05@gmail.com)
