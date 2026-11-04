@@ -6,7 +6,15 @@
 
 <div align="center">
 
-· · ─ ·✶· ─ · ·
+</div>
+
+<img src="https://tse3.mm.bing.net/th/id/OIP.UL8Ez4KkNo-HyBwxDbaiiQHaGp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+     align="left"
+     width="380">
+
+<div align="center">
+
+<p>· · ─ ·✶· ─ · ·<p/>
 
 <p>Hello there! What brings you here?</p>
 
@@ -14,7 +22,13 @@
 
 <p>One of my biggest projects so far is <b>Cognito</b>, an Android task manager designed to help students organize their studies. It's already available on the Play Store, so feel free to check it out! You can also find the source code <a href="https://github.com/NyleCoelho/Cognito">here</a>.</p>
 
-· · ─ ·✶· ─ · ·
+<p align="center">· · ─ ·✶· ─ · ·<p/>
+
+</div>
+
+<br clear="left">
+
+<div align="center">
 
 </div>
 
