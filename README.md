@@ -20,7 +20,7 @@
 
 </div>
 
-<h3>
+<h3 align="center">
   That snake must be starving. I'm sorry, I promise I'll become a better coder! (੭ ;´ ⌂ `;)੭♡
 </h3>
 
