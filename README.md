@@ -1,4 +1,4 @@
-<img src="flower.png" width="280" align="left">
+<img src="https://media.tenor.com/Tg23lKjm_EYAAAAi/twilight-sparkle-pixel-art.gif" width="280" align="left">
 
 <div>
 
