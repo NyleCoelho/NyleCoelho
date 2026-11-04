@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://tse3.mm.bing.net/th/id/OIP.UL8Ez4KkNo-HyBwxDbaiiQHaGp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+<img src="assets/linux.png"
      align="left"
      width="380">
 
