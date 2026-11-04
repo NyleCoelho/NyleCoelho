@@ -4,9 +4,9 @@
 
 <p>Hello there! What brings you here?</p>
 
-<p>My name is Nyle, it's a pleasure to meet you. Let me give you a quick introduction. I'm currently in the 6th semester of my Software Engineering degree, specializing to become a mobile software developer. My main expertise lies in <b>Flutter</b> and <b>Dart</b>, though I've also been working on developing my skills in <b>C#</b> and <b>Java</b> lately.</p>
+<p>My name is Nyle, it's a pleasure to meet you! Here's a little introduction about me. I'm currently in my 6th semester of Software Engineering, working towards becoming a mobile software developer. I mostly work with <b>Flutter</b> and <b>Dart</b>, but lately I've also been exploring <b>C#</b> and <b>Java</b>.</p>
 
-<p>One of my most significant projects so far is <b>Cognito</b>, an Android task manager designed to help students organize their studies. It's already available on the Play Store if you'd like to check it out. You can find the repository <a href="https://github.com/NyleCoelho/Cognito">here</a>.</p>
+<p>One of my biggest projects so far is <b>Cognito</b>, an Android task manager designed to help students organize their studies. It's already available on the Play Store, so feel free to check it out! You can also find the source code <a href="https://github.com/NyleCoelho/Cognito">here</a>.</p>
 
 · · ─ ·✶· ─ · ·
 
