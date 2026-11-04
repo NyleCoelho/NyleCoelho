@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/Tg23lKjm_EYAAAAi/twilight-sparkle-pixel-art.gif" width="330" align="left">
+<img src="https://media.tenor.com/Tg23lKjm_EYAAAAi/twilight-sparkle-pixel-art.gif" width="300" align="left">
 
 <div>
 
