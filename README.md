@@ -1,14 +1,12 @@
-
-
 <div align="center">
 
 · · ─ ·✶· ─ · ·
 
-<p>Hello there! what brings you here?</p>
+<p>Hello there! What brings you here?</p>
 
-<p>Meu nome é Nyle, é um prazer lhe conhecer. Permita-me fazer uma breve introdução. Atualmente estou no sexto periodo do curso de Engenharia de Software. Estou me especializando para me tornar uma desenvolvedora de software mobile.</p>
+<p>My name is Nyle, it's a pleasure to meet you. Let me give you a quick introduction. I'm currently in the 6th semester of my Software Engineering degree, specializing to become a mobile software developer.</p>
 
-<p>Um dos meus projetos mais importantes até então é o aplicativo para android Cognito, um gerenciador de tarefas focado para organização de estudos. Já está disponível na Play Store caso queria conferir. O repositório você pode encontrar <a href="LINK_AQUI">aqui</a>.</p>
+<p>One of my most significant projects so far is <b>Cognito</b>, an Android task manager designed to help students organize their studies. It's already available on the Play Store if you'd like to check it out. You can find the repository <a href="LINK_AQUI">here</a>.</p>
 
 · · ─ ·✶· ─ · ·
 
