@@ -19,7 +19,7 @@
 </p>
 
 </div>
-
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/NyleCoelho/NyleCoelho/output/github-snake-dark.svg" width="1500" height="250">
 </p>
