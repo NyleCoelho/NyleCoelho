@@ -20,6 +20,10 @@
 
 </div>
 
+<h3>
+  That snake must be starving. I'm sorry, I promise I'll become a better coder! (੭ ;´ ⌂ `;)੭♡
+</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NyleCoelho/NyleCoelho/output/github-snake-dark.svg" width="1500">
 </p>
