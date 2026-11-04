@@ -20,8 +20,6 @@
 
 </div>
 
-<br clear="left">
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NyleCoelho/NyleCoelho/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/NyleCoelho/NyleCoelho/output/github-snake-dark.svg" width="1500">
 </p>
