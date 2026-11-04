@@ -1,16 +1,10 @@
-<p align="center">
-
-<img src="./assets/NyleOS.png" align="center" width="450">  
-
-<p/>
-
 <div align="center">
 
 </div>
 
 <img src="assets/linux.png"
      align="left"
-     width="380">
+     width="480">
 
 <div align="center">
 
