@@ -1,10 +1,8 @@
-<pre align="center">
-   ____  ___)            __       __)              / 
-  (, /   /      /) /)   (, )  |  /        /)  /)  /  
-    /---/   _  // // ___   | /| / _____  // _(/  /   
- ) /   (___(/_(/_(/_(_)    |/ |/ (_)/ (_(/_(_(_ o    
-(_/                        /  |                      
-</pre>                    
+<p align="center">
+
+<img src="./assets/NyleOS.png" align="center" width="450">  
+
+<p/>
 
 <div align="center">
 
