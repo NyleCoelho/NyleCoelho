@@ -2,9 +2,7 @@
 
 </div>
 
-<img src="assets/linux.png"
-     align="left"
-     width="480">
+<img src="">
 
 <div align="center">
 
