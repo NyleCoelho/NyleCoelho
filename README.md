@@ -8,8 +8,6 @@
 
 <p>One of my biggest projects so far is <b>Cognito</b>, an Android task manager designed to help students organize their studies. It's already available on the Play Store, so feel free to check it out! You can also find the source code <a href="https://github.com/NyleCoelho/Cognito">here</a>.</p>
 
-<p>Contributors are always welcome here! If you'd like to get in touch with me, feel free to reach out via email at nylecoelho\@gmail.com.</p><br>
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,java,cs,firebase,mint,figma,dotnet,androidstudio" />
