@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Hello_ponies!.png" width="500">
+</div>
+
 <img src="https://media.tenor.com/Tg23lKjm_EYAAAAi/twilight-sparkle-pixel-art.gif" width="300" align="left">
 
 <div>
